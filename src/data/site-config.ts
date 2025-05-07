@@ -40,8 +40,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://CoordEjecu.github.io',
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'Hot Data',
+    subtitle: 'Dirección de Análisis de Procesos',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
