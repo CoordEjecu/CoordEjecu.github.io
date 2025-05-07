@@ -1,7 +1,7 @@
 ---
 title: La sequía de Sonora del 2025
 excerpt: 'Sonora enfrenta su peor crisis hídrica en décadas: el 79.7% del estado sufre sequía extrema, devastando la agricultura. El Valle del Yaqui, que producía el 52% del trigo nacional, vio caer su cosecha un 24.2% en 2024, con solo 16 mil hectáreas sembradas este año frente a las 178 mil anteriores. Mientras presas como la Ruiz Cortines están al 1% de su capacidad, expertos proponen soluciones urgentes —desalinización, reúso de agua y restricciones de cultivo— ante pérdidas que superan los 16 mil millones de pesos. ¿Cómo llegamos aquí? Claves de una tragedia anunciada.'
-publishDate: 'Aug 5 2023'
+publishDate: 'Mayo 7 2025'
 tags:
   - Guide
 seo:
