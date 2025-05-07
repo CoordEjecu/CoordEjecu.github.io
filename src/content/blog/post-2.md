@@ -1,7 +1,7 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: 'Agua que no ves: El mapa desigual de la sequía en México y el costo para la seguridad alimentaria'
+excerpt: 'México enfrenta una crisis hídrica sin precedentes: 54% de sus presas están en niveles críticos, Sonora ha perdido 42% de su ganado y 234,000 hectáreas agrícolas quedaron sin sembrar. Mientras el sur sufre lluvias extremas por La Niña, el norte se desertifica. Expertos urgen soluciones: desde redistribución meteorológica hasta frenar el desperdicio (en Hermosillo se pierde 57% del agua por fugas). La pregunta clave: ¿Podremos evitar que el colapso del Valle del Yaqui ponga en riesgo la seguridad alimentaria nacional?'
+publishDate: 'Mayo 7 2025'
 tags:
   - Web
   - Web development
