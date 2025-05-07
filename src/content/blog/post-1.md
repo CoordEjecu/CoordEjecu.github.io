@@ -41,3 +41,53 @@ Infraestructura y capacidad:
 Investigadores del COLSON cuestionan el proyecto de una desaladora en Hermosillo (capacidad: 15.7 hm3).
 Con una capacidad coma de la desaladora en Hermosillo se podría abastecer 350 hectáreas de riego.
 Mientras, ejidatarios de Hornos proponen crear una reserva ecológica en sus 397 hectáreas federales, en un contexto donde el 70% de las tierras de Cajeme han dejado de cultivarse.
+
+## Controversia sobre plantas tratadoras
+
+El número de plantas tratadoreas de agua creció en más de 200%.
+El número de plantas abandonadas creció más de 300%.
+El gobierno federal está comprometida a invertir en nuevas plantas de tratamiento de agua.
+Pero la capacidad de manutención de mantenimiento y funcionamiento depende de la capacidad de cada municipio. 
+Como dice Viri Ríos, hemos mandado al guerrero más débil a dar la batalla más grande.
+
+### Impacto económico y social
+
+Más de 2,000 ejidatarios del sur de Sonora exigen apoyos económicos.
+Las 10 principales presas del estado (capacidad total: 8,630 hm3) estaban en 2022 al 33% de su almacenamiento. 
+Ahora las presas promedian menos del 13% de su capacidad.
+En 2022, la presa Ruiz Cortines contenía 386 hm3 (de sus 1,200 hm3 posibles).
+Hoy la presa Ruiz Cortines solo contiene 9.1 hm3, a menos del 1% de su capacidad. Las pérdidas por sequía en la región superan los 16 mil millones de pesos, con 270 mil hectáreas sin sembrar.
+
+### Las causas
+
+Para América Lutz, investigadora de COLSON, “llegamos a esta situación porque no actuamos a tiempo”.
+A finales de 1970 la escasez de agua ya era evidente.
+En esas fechas se formularon PLHINO, PLHIGO y PLHICEN.
+La intención era redistribuir el agua excedente del sur hacia el norte.
+El PLHINO propone el trasvasado de 808 hm3 al año.
+
+### Efectos en Sinaloa y la ganadería
+
+La sequía también afecta a Sinaloa, donde el descenso del manto freático ha provocado escasez en zonas rurales.
+De persistir esta situación, la falta de forraje podría llevar a la pérdida masiva de ganado, amenazando
+con desaparecer la actividad ganadera a mediano plazo. En Sonora se redujo el hato de un millón 200 mil a 700 mil cabezas.
+Los ganaderos prefieren vender a sus animales a bajo precio que verlos morir de sed.
+Los costos de producción se incrementan es por esto que muchos ganaderos venden sus animales. 
+En el Valle de el área autorizada de siembre de alfalfa fue de 3 mil 747 ha.
+Así que, las pacas de alfalfa se las traen de Mexicali.
+El costo de combustible para llevar el alimento y agua incrementa los precios.
+
+### La ineficiencia
+
+Estamos desfogando agua sin que le demos un uso.
+La eficiencia del agua es del 15%.
+Si tenemos más presas podríamos subir hasta a un 70%.
+En Hermosillo se tiene una eficiencia física de 43%.
+En Guaymas se inyectan 30 hm3 y solo se requieren 18 hm3.
+Hay una pérdida del 40%.
+En Navojoa el 40% del agua potable termina por no ser aprovechada.
+Las causas en Navojoa son fugas, tomas clandestinas y el desperdicio de los propios usuarios.
+Las fugas atendidas diariamente son Navojoa son entre 15 y 20, en mes podrían sumar hasta 600 fugas.
+Solo el 3% de los privados que tienen concesiones de agua realmente pagan por el recurso.
+Cobrar el agua no solo generaría recursos para infrestructura, reciclaje y saneamiento, sino que podría generar incentivos para que las empresas la usen de forma más moderada.
+Según Ana Balderrama investigadora de la UNISON hace notar que lel 90% del recurso se usa en la agricultura.
