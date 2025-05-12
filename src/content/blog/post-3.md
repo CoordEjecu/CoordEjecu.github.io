@@ -34,6 +34,18 @@ Como parte de la estrategia, se han liberado más de 800 millones de moscas est�
 Adicionalmente, se pagan más de 2 millones de pesos mensuales para importar huevecillos desde Guatemala y pupas desde Panamá.
 Del lado estadounidense, el Servicio de Inspección de Sanidad Animal y Vegetal (APHIS-USDA) ha reforzado la producción de moscas estériles en su planta de Pacora, Panamá.
 El APHIS-USDA dispersa hasta 90 millones de moscas estériles por semana.
+
+Es importante señalar que estas acciones han tenido lugar en entidades de la frontera sur con la intención de crear un cinturón y así contener el gusano barrenador.
+De esta manera se reduce la probabilidad de que el gusano llegue al norte de México.
+Su llegada a la frontera norte sería devastadora porque el norte de México se destaca por encabezar la exportación de ganado en pie hacia Estados Unido.
+Por ejemplo, Sonora y Chihuahua exportan al día 2500 y 3200 reses representando pérdidas por 11.4 millones de dólares.
+
+No obstante, no es posible depender exclusivamente de las acciones realizadas en el sur del país.
+Aunque a estrategia de contención busca evitar la propagación del gusano barrenador hacia el norte, el riesgo es latente.
+Dada la problemática es urgente que el norte del país y Sonora asuman un papel activo con la creqacion de un fideicomiso por el gobierno federal y las uniones ganaderas de los estados exportadores.
+Lo anterior con el fin de blindar la frontera norte.
+Con este fondo, se buscaría además gestionar una cooperación bilateral, invitando a Estados Unidos a aportar una suma o cantidad igual a la recolectada por el fideicomiso, ya que el gusano barrenador representa una amenaza para ambos lados de la frontera.
+
 Sin embargo, esta colaboración tuvo consecuencias laborales.
 La planta ubicada en Chiapas fue desmantelada, y la producción se trasladó a Panamá.
 Esto resultó en la desaparición de una sección sindical en México.
@@ -61,4 +73,4 @@ Con este fondo inicial de 5 millones de dólares, se buscaría una contraparte s
 Esta propuesta representa una mejora significativa respecto al anterior esquema de financiamiento 80-20, promoviendo una mayor corresponsabilidad y sostenibilidad en la lucha contra esta plaga que impacta directamente la economía ganadera y las exportaciones.
 
 Esta inversión sería de 200 millones de pesos. Esta cantidad es mayor a la inversión ya hecha por 165 millones de pesos.
-Creemos que con esa cantidad será suficiente para pagar dispersar otros 800 millones de moscas estériles.
+Creemos que con esa cantidad será suficiente para dispersar otros 800 millones de moscas estériles.
