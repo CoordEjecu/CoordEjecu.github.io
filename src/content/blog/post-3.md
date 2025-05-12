@@ -1,6 +1,6 @@
 ---
 title: 'Gusano barrenador: Un enemigo silencioso que amenaza al ganado Sonorense'
-excerpt: 'El gusano barrenador, causado por la mosca Cochliomyia hominivorax, es una amenaza silenciosa para el ganado, depositando sus larvas en heridas que se alimentan de tejido vivo. Su impacto en el ganado es severo, con pérdidas de animales e imposibilidad de exportación. La principal estrategia de control es la "técnica del macho estéril por radiación", que implica liberar grandes cantidades de moscas macho esterilizadas para interrumpir la reproducción. México ha invertido significativamente y colabora internacionalmente, importando moscas estériles. Si bien se ha logrado controlar el 80% de los casos, la erradicación depende de infraestructura y financiamiento extranjero, con la amenaza latente de cierre de la frontera norte para la exportación de ganado si no se mantiene un control efectivo. La lucha contra esta plaga requiere voluntad política y cooperación sostenible para proteger la ganadería mexicana.'
+excerpt: 'El gusano barrenador es una amenaza silenciosa para el ganada dería sonorense. Su impacto en el ganado es severo, con pérdidas de animales e imposibilidad de exportación. La principal estrategia de control es la "técnica del macho estéril por radiación". México ha invertido significativamente y colabora internacionalmente, importando moscas estériles. La lucha contra esta plaga requiere voluntad política y cooperación sostenible para proteger la ganadería mexicana.'
 publishDate: 'Mayo 12 2025'
 tags:
   - Ganadería
@@ -30,8 +30,10 @@ La lucha contra el gusano barrenador es también un caso emblemático de colabor
 Según el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA), México ha invertido más de 165 millones de pesos para contener los brotes.
 Como parte de la estrategia, se han liberado más de 800 millones de moscas estériles en zonas críticas del país.
 Adicionalmente, se pagan más de 2 millones de pesos mensuales para importar huevecillos desde Guatemala y pupas desde Panamá.
-Del lado estadounidense, el Servicio de Inspección de Sanidad Animal y Vegetal (APHIS-USDA) ha reforzado la producción de moscas estériles en su planta de Pacora, Panamá, donde actualmente se dispersan hasta 90 millones de moscas estériles por semana.
-Sin embargo, esta colaboración tuvo consecuencias laborales. La planta ubicada en Chiapas fue desmantelada, y la producción se trasladó a Panamá.
+Del lado estadounidense, el Servicio de Inspección de Sanidad Animal y Vegetal (APHIS-USDA) ha reforzado la producción de moscas estériles en su planta de Pacora, Panamá.
+El APHIS-USDA dispersa hasta 90 millones de moscas estériles por semana.
+Sin embargo, esta colaboración tuvo consecuencias laborales.
+La planta ubicada en Chiapas fue desmantelada, y la producción se trasladó a Panamá.
 Esto resultó en la desaparición de una sección sindical en México.
 Aunque la liquidación se realizó conforme a la ley alegando que se extinguía la fuente de trabajo, se utilizó financiamiento estadounidense para pagar bonos a los trabajadores afectados, en un intento de mitigar el impacto social.
 
