@@ -3,8 +3,8 @@ title: 'Agua que no ves: El mapa desigual de la sequía en México y el costo pa
 excerpt: 'México enfrenta una crisis hídrica sin precedentes: 54% de sus presas están en niveles críticos, Sonora ha perdido 42% de su ganado y 234,000 hectáreas agrícolas quedaron sin sembrar. Mientras el sur sufre lluvias extremas por La Niña, el norte se desertifica. Expertos urgen soluciones: desde redistribución meteorológica hasta frenar el desperdicio (en Hermosillo se pierde 57% del agua por fugas). La pregunta clave: ¿Podremos evitar que el colapso del Valle del Yaqui ponga en riesgo la seguridad alimentaria nacional?'
 publishDate: 'Mayo 7 2025'
 tags:
-  - Web
-  - Web development
+  - Sequia
+  - Sonora
 seo:
   image:
     src: '/distribucion.jpeg'
