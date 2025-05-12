@@ -59,3 +59,6 @@ Bajo este esquema, Sonora y Chihuahua aportarían individualmente medio millón 
 Las uniones ganaderas de estos cinco estados sumarían una aportación total de 3.5 millones de dólares.
 Con este fondo inicial de 5 millones de dólares, se buscaría una contraparte similar por parte de los Estados Unidos.
 Esta propuesta representa una mejora significativa respecto al anterior esquema de financiamiento 80-20, promoviendo una mayor corresponsabilidad y sostenibilidad en la lucha contra esta plaga que impacta directamente la economía ganadera y las exportaciones.
+
+Esta inversión sería de 200 millones de pesos. Esta cantidad es mayor a la inversión ya hecha por 165 millones de pesos.
+Creemos que con esa cantidad será suficiente para pagar dispersar otros 800 millones de moscas estériles.
