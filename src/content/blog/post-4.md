@@ -1,6 +1,6 @@
 ---
 title: 'Ganadería en Sonora: Exportar ganado en pie le cuesta millones al estado, revela estudio'
-excerpt: 'El gusano barrenador es una amenaza silenciosa para el ganada dería sonorense. Su impacto en el ganado es severo, con pérdidas de animales e imposibilidad de exportación. La principal estrategia de control es la "técnica del macho estéril por radiación". México ha invertido significativamente y colabora internacionalmente, importando moscas estériles. La lucha contra esta plaga requiere voluntad política y cooperación sostenible para proteger la ganadería mexicana. La solución al problema es un fideicomiso colaborativo entre estados exportadores y uniones ganaderas mexicanas.'
+excerpt: 'Sonora pierde millones al exportar ganado en pie en lugar de procesar carne localmente, revela un estudio con datos del INEGI. Si EU impone aranceles del 30%, las ventas al exterior caerían hasta 19.1%, mientras que solo 6% de la producción se industrializa en el estado. Peor aún: Arizona se queda con la mayor rentabilidad al engordar y procesar el ganado sonorense. Expertos proponen crear rastros TIF y una marca estatal de carne para generar 25,500 empleos y dejar de "regalar el valor agregado". ¿La advertencia? "Es como vender oro en bruto y comprarlo en joyas: perdemos dos veces"'
 publishDate: 'Mayo 12 2025'
 tags:
   - Ganadería
