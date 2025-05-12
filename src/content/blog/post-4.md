@@ -19,7 +19,7 @@ La dependencia de Sonora en la exportación de ganado bovino en pie —en lugar 
 Los números de la crisis
 Impacto de aranceles: Si EU impone tasas del 30%, las exportaciones ganaderas de Sonora caerían hasta 19.1%, y las manufactureras (como empacadoras de carne) 15.4%.
 
-Oportunidad perdida: Solo 6% de la producción ganadera estatal se industrializa localmente, pese a que procesar la carne generaría 1.7% más empleos con una inversión mínima (0.16% del presupuesto CONAGO).
+Oportunidad perdida: Solo 6% de la producción ganadera estatal se industrializa localmente, pese a que procesar la carne generaría 1.7% más empleos con una inversión mínima. Ese porcentaje corresponde a los números propuestos por Comisión Nacional de Gobernadores, CONAGO en adelante. La inversión necesaría sería del 0.16% del presupuesto mencionado por la CONAGO.
 
 Contraste: Mientras Sonora exporta becerros, Arizona (EU) engorda y procesa ese ganado, captando la mayor rentabilidad.
 
@@ -39,7 +39,8 @@ En 2024, Sonora importó 40 mil toneladas de trigo por sequía, pero podría com
 La solución: Dejar de "regalar" el valor agregado
 Investigadores proponen:
 
-Invertir en rastros TIF para pequeños productores.
+Invertir en rastros TIF para pequeños productores. 
+Para complementar la propuesta, se debe considerar la construcción de un Banco forrajero y un uso sostenible de los agostaderos.
 
 Crear una marca estatal de carne sonorense.
 
@@ -47,7 +48,7 @@ Aprovechar la CONAGO para financiar proyectos con alto retorno social (25,500 em
 
 ## Cita clave:
 
-"Exportar ganado en pie es como vender oro en bruto y comprarlo en joyas: Sonora pierde twice", advierte el estudio.
+"Exportar ganado en pie es como vender oro en bruto y comprarlo en joyas: Sonora pierde dos veces", advierte el estudio.
 
 ## Contexto político
 
