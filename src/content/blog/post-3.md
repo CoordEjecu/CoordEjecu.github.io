@@ -41,13 +41,13 @@ Su llegada a la frontera norte sería devastadora porque el norte de México se 
 
 Por ejemplo, Sonora y Chihuahua exportan diariamente 2,500 y 3,200 reses, respectivamente.
 Con estas cifras, mensualmente se dejarían de exportar 171,000 cabezas de ganado bovino.
-Esta misma fuente, habla de una pérdida de 11.4 millones de dólares diarios (342 mil millones de dólares).
+Esta misma fuente, habla de una pérdida de 11.4 millones de dólares diarios (342 mil millones de dólares mensuales).
 Por otro lado, los datos de 2023 reportados por el SIAP indican ingresos anuales cercanos a los 700 millones de dólares, lo que representa aproximadamente 57 millones de dólares mensuales entre ambos estados.
 Estas cifras corresponden al 9% de la producción nacional de ganado bovino en pie.
 
 Un efecto secundario del cierre de la frontera será la caída de los precios del ganado.Los ganaderos asumirán los costos de prolongar el tiempo de cuidado de las reses.
 Este aumento en los costos obligará a bajar los precios al productor.
-Otro efecto será también la sobreexplotación de los agostaderos.
+El kilo de carne en exportación se paga entre 120 y 140 pesos, en México no se pagarán más de 80 pesos.
 Por último, existirá el riesgo latente de que el hato se reduzca por falta de alimento.
 
 No obstante, no es posible depender exclusivamente de las acciones realizadas en el sur del país.
