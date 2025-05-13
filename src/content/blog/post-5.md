@@ -39,3 +39,17 @@ Uno de los mayores obstáculos evidenciados por la sequía ha sido la debilidad 
 ## ¿Es el Plan Hídrico suficiente?
 
 La coincidencia entre el diagnóstico de la crisis hídrica de 2025 y los fundamentos del Plan Hídrico Sonora 2023-2053 muestra que el problema estaba claramente identificado. El reto ahora es ejecutar el plan con eficacia, garantizar los recursos financieros y técnicos necesarios, y asegurar que los distintos niveles de gobierno asuman su papel. Más que una hoja de ruta, el plan es una oportunidad histórica para cambiar la forma en que Sonora gestiona su recurso más crítico. Ignorarlo sería repetir los errores del pasado; implementarlo con seriedad podría evitar que esta crisis se repita.
+
+## Resumen
+
+| Aspecto                  | Sequía 2025                                                                 | Plan Hídrico 2023-2053                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Gravedad de la escasez   | 79.7% del territorio en sequía extrema; presas con menos del 13% de almacenamiento. | Reconoce la emergencia hídrica y propone garantizar agua por 30 años.                |
+| Impacto en la agricultura| Pérdidas multimillonarias y necesidad de importar trigo.                    | Eficiencia en el uso agrícola del agua e infraestructura para zonas vulnerables.      |
+| Desalinización           | Propuesta viable pero limitada y controversial.                             | Incluida como alternativa complementaria, no central.                                 |
+| Reutilización de aguas   | Crecen plantas tratadoras, pero muchas están abandonadas.                   | Promueve tratamiento multinivel y uso racional.                                       |
+| Infraestructura          | Canales y presas insuficientes; áreas sin irrigar.                          | Planeación a largo plazo e inversión en obras hidráulicas.                            |
+| Gestión y gobernanza     | Fugas, tomas ilegales, baja eficiencia y falta de cobro.                    | Gobernanza participativa y marco legal sólido.                                        |
+| Financiamiento y operación | Municipios sin capacidad de operación.                                   | Fuentes de financiamiento y sostenibilidad institucional.                             |
+| Conciencia social        | Uso ineficiente y sin incentivos para ahorro.                               | Campañas de sensibilización y participación activa.                                   |
+| Problemas estructurales  | Falta de acción histórica; planes no ejecutados.                            | Superación de inercias mediante visión integral.                                      |
