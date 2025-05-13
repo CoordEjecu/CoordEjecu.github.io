@@ -1,5 +1,5 @@
 ---
-title: 'Plan Hídrico de Sonora. Sonora Lanza Plan Hídrico 2023-2053 para Asegurar Futuro del Agua'
+title: 'Sonora Lanza Plan Hídrico 2023-2053 para Asegurar Futuro del Agua'
 excerpt: 'Sonora enfrenta una crisis hídrica sin precedentes, con más del 79% del territorio en sequía extrema, lo que ha generado pérdidas millonarias en la agricultura y ha evidenciado la fragilidad del sistema de riego, la falta de planeación y una débil gobernanza. El Plan Hídrico Sonora 2023-2053 surge como una respuesta estructural ante este panorama, proponiendo una estrategia de largo plazo basada en infraestructura moderna, tratamiento y reutilización de aguas, eficiencia agrícola y fortalecimiento institucional. Aunque incluye medidas como la desalinización, su éxito dependerá de la capacidad operativa de los municipios y del compromiso político para revertir años de abandono. La coincidencia entre los problemas actuales y los objetivos del plan sugiere que, si se ejecuta con seriedad, podría convertirse en una solución integral y transformadora para la gestión del agua en el estado.'
 publishDate: 'Mayo 13 2025'
 tags:
