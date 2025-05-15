@@ -15,18 +15,18 @@ seo:
 
 
 Del 12 al 19 de abril de 2025 se llevó a cabo una intensa jornada de afiliación, impulsada por el compromiso y la organización de nuestra brigada.
-El resultado fue contundente: **343 nuevas personas se sumaron al proyecto**, y además se escucharon 40 peticiones ciudadanas, lo que representa un 10% de interacción directa y significativa con la comunidad.
+El resultado fue contundente: **393 nuevas personas se sumaron al movimiento**, y además se escucharon 40 peticiones ciudadanas, lo que representa un 10% de interacción directa y significativa con la comunidad.
 
 Estos números no son menores. En las últimas tres elecciones, el total de votantes en la localidad ha oscilado alrededor de las 1,000 personas.
 Las victorias se han definido por márgenes muy reducidos:
 
-- En **2018**, ganaron por **288 votos** (650 vs. 362), gonó el PRIAN
+- En **2018**, ganaron por **288 votos** (650 vs. 362), ganó Cornelio Vega Vega por el PRIAN
 
-- En **2021**, por **184 votos** (590 vs. 406), ganó el PRIAN
+- En **2021**, por **184 votos** (590 vs. 406), ganó Adam Eduardo Langford Kemson por el PRIAN
 
-- En **2024**, por **209 votos** (433 vs. 642), ganó Morena.
+- En **2024**, por **209 votos** (433 vs. 642), ganó Conrado Durazo por Morena.
 
-La afiliación lograda en esta sola jornada equivale a **más del 34%** de las personas que salieron a votar en las últimas tres elecciones.
+La afiliación lograda en esta sola jornada equivale a cerca del **40%** de las personas que salieron a votar en las últimas tres elecciones.
 En otras palabras, si se consolida y se activa ese respaldo en las urnas, Morena tiene una posibilidad real y concreta de ganar la próxima elección.
 
 Este avance no es casual.
