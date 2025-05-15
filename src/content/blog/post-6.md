@@ -28,7 +28,9 @@ Las victorias se han definido por márgenes muy reducidos:
 
 La afiliación lograda en esta sola jornada equivale a cerca del **40%** de las personas que salieron a votar en las últimas tres elecciones.
 En otras palabras, si se consolida y se activa ese respaldo en las urnas, Morena tiene una posibilidad real y concreta de ganar la próxima elección.
-Con base en una estimación inicial de dos votos de arrastre por militante, nuestra afiliación de 400 personas representa una base proyectada de 800 votos. Esta expectativa de arrastre se justifica por la positiva valoración del gobernador y del presidente municipal, un sentir palpable en nuestro trabajo de brigada y que anticipamos tendrá una influencia favorable en el electorado.
+Con base en una estimación inicial de dos votos de arrastre por militante, nuestra afiliación de 400 personas representa una base proyectada de 800 votos.
+Esta expectativa de arrastre se justifica por la positiva valoración del gobernador y del presidente municipal. 
+Fue en nuestro trabajo de brigada en donde palpamos la influencia favorable del trabajo del gobernador en el electorado.
 
 Este avance no es casual.
 Es resultado del trabajo directo en el territorio, del contacto humano, del escuchar y caminar junto a la gente.
