@@ -40,7 +40,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://CoordEjecu.github.io',
-    title: 'Hot Data',
+    title: 'Polimetrics',
     subtitle: 'Análisis de Procesos',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
