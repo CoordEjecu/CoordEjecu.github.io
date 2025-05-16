@@ -1,5 +1,5 @@
 ---
-title: Propuesta de Estilo de Escritura: Claridad y Acción
+title: 'Propuesta de Estilo de Escritura: Claridad y Acción'
 excerpt: 'Buscamos comunicación efectiva y ágil. La comprensión inmediata es prioridad La propuesta son oraciones cortas, voz activa, estructura sencilla y lenguaje directo. Los beneficios serán una mayor claridad, una lectura ágil, mensajes directos y menos ambigüedad. Este estilo prioriza brevedad y acción para comunicar eficazmente.'
 publishDate: 'May 16 2025'
 tags:
