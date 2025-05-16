@@ -11,7 +11,7 @@ seo:
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/brigadas_2025.jpeg)
+![A person standing at the window](/sequia.jpeg)
 
 ## Objetivo
 Lograr una comunicación efectiva y ágil.
