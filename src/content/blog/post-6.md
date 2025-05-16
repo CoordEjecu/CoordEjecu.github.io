@@ -15,22 +15,26 @@ seo:
 
 
 Del 12 al 19 de abril de 2025 se llevó a cabo una intensa jornada de afiliación, impulsada por el compromiso y la organización de nuestra brigada.
-El resultado fue contundente: **393 nuevas personas se sumaron al movimiento**, y además se escucharon 40 peticiones ciudadanas, lo que representa un 10% de interacción directa y significativa con la comunidad.
+El resultado fue contundente: **393 nuevas personas se sumaron al movimiento**.
+Además, escuchamos **40 peticiones ciudadanas**, lo que representa una interacción directa y significativa.
 
-Estos números no son menores. En las últimas tres elecciones, el total de votantes en la localidad ha oscilado alrededor de las 1,000 personas.
-Las victorias se han definido por márgenes muy reducidos:
+Estos números no son menores.
+En las últimas tres elecciones, la participación total en esta localidad ha rondado en las 1,000 personas y los márgenes de victoria han sido sumamente cerrados.
 
-- En **2018**, ganaron por **288 votos** (650 vs. 362), ganó Cornelio Vega Vega por el PRIAN
+- En **2024**, ganó **Conrado Durazo (Morena)** por **209 votos** (642 vs. 433)
 
-- En **2021**, por **184 votos** (590 vs. 406), ganó Adam Eduardo Langford Kemson por el PRIAN
+- En **2021**, ganó **Adam Eduardo Langford Kemson (PRIAN)** por **184 votos** (590 vs. 406)
 
-- En **2024**, por **209 votos** (433 vs. 642), ganó Conrado Durazo por Morena.
+- En **2018**, ganó **Cornelio Vega Vega (PRIAN)** por **288 votos** (650 vs. 362)
 
-La afiliación lograda en esta sola jornada equivale a cerca del **40%** de las personas que salieron a votar en las últimas tres elecciones.
-En otras palabras, si se consolida y se activa ese respaldo en las urnas, Morena tiene una posibilidad real y concreta de ganar la próxima elección.
-Con base en una estimación inicial de dos votos de arrastre por militante, nuestra afiliación de 400 personas representa una base proyectada de 800 votos.
-Esta expectativa de arrastre se justifica por la positiva valoración del gobernador y del presidente municipal. 
-Fue en nuestro trabajo de brigada en donde palpamos la influencia favorable del trabajo del gobernador en el electorado.
+En ambas contiendas de 2018 y 2021, quien representó a Morena fue Celia Durazo, quedando siempre en segundo lugar.
+
+Lo logrado en esta jornada **representa cerca del 40% del total de votantes históricos**.
+Es decir, si este apoyo se consolida y se activa en las urnas, **Morena no solo tiene posibilidades: tiene una oportunidad real y concreta de ganar la próxima elección.**
+
+Con base en estimaciones conservadoras —dos votos de arrastre por militante activo—, esta afiliación proyecta una base de hasta 800 votos.
+Esta estimación está respaldada no solo por la alta valoración ciudadana del Gobernador y del Presidente Municipal. 
+La aceptación fue palpable en cada visita, en cada puerta tocada y en cada diálogo con la gente.
 
 Este avance no es casual.
 Es resultado del trabajo directo en el territorio, del contacto humano, del escuchar y caminar junto a la gente.
