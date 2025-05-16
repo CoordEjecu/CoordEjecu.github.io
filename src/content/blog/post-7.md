@@ -39,3 +39,7 @@ Priorizamos la comprensión inmediata del mensaje.
 
 Este estilo busca una comunicación efectiva y sin rodeos.
 La brevedad y la acción son nuestras prioridades.
+
+## Referencias
+
+- [Redacción concisa](https://www.springer.com/la/authors-editors/tutoriales-de-autores-y-revisores/writinginenglish/concise-writing/12111712?srsltid=AfmBOorhiqWRXK8bLDmLVC-IQToF5blu34TtskThTAinWg2Tevq-aaO5)
