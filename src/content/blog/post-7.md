@@ -5,6 +5,7 @@ publishDate: 'May 16 2025'
 tags:
   - Estilo
   - Equipo
+seo:
   image:
     src: '/sequia.jpeg'
     alt: A person standing at the window
