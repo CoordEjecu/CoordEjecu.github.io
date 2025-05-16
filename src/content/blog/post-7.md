@@ -7,11 +7,11 @@ tags:
   - Equipo
 seo:
   image:
-    src: '/sequia.jpeg'
+    src: '/estilo.jpeg'
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/sequia.jpeg)
+![A person standing at the window](/estilo.jpeg)
 
 ## Objetivo
 Lograr una comunicación efectiva y ágil.
