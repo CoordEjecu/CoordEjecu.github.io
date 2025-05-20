@@ -7,11 +7,11 @@ tags:
   - Equipo
 seo:
   image:
-    src: '/estilo.jpeg'
+    src: '/check_list.png'
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/estilo.jpeg)
+![A person standing at the window](/check_list.png)
 
 # 
 
