@@ -1,6 +1,6 @@
 ---
 title: 'Manual y Checklist para Elaborar una Licitación Pública Abierta (LPA)'
-excerpt: 'Buscamos comunicación efectiva y ágil. La comprensión inmediata es prioridad La propuesta son oraciones cortas, voz activa, estructura sencilla y lenguaje directo. Los beneficios serán una mayor claridad, una lectura ágil, mensajes directos y menos ambigüedad. Este estilo prioriza brevedad y acción para comunicar eficazmente.'
+excerpt: 'Nombre de la LPA y de la investigación de mercado deben coincidir. Validar fechas con el Director General antes de publicar. Revisar proporciones técnicas/económicas según el tipo de LPA.'
 publishDate: 'May 20 2025'
 tags:
   - Estilo
