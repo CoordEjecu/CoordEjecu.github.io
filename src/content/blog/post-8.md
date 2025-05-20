@@ -31,7 +31,8 @@ Una LPA consta de **13 apartados**, que varían ligeramente según el tipo de li
 ## Checklist por Apartados
 
 ### 📌 Apartado 1: Datos Generales  
-- [ ] Actualizar el **nombre del servicio** (debe coincidir con la investigación de mercado).  
+- [ ] Actualizar el **nombre del servicio** (debe coincidir con la investigación de mercado).
+- [ ] En el **punto 4** debemos actualizar las fechas.
 - [ ] Verificar el **número de oficio/LPA**.  
 - [ ] En **punto 5, sección c**:  
   - Las fechas las define el **Director General**.  
