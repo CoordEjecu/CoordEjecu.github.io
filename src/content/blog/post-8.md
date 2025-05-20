@@ -16,7 +16,7 @@ seo:
 # 
 
 ## Introducción
-Una Licitación Pública Abierta (LPA) es un proceso formal para la adquisición de bienes o servicios. Este documento sirve como guía paso a paso y checklist para asegurar que todos los apartados se completen correctamente.
+Una Licitación Pública Nacional (LPA) es un proceso formal para la adquisición de bienes o servicios. Este documento sirve como guía paso a paso y checklist para asegurar que todos los apartados se completen correctamente.
 
 ---
 
