@@ -45,7 +45,7 @@ Una LPA consta de **13 apartados**, que varían ligeramente según el tipo de li
 
 ### 📌 Apartado 7: Propuesta Económica  
 - [ ] Definir proporciones según el tipo de LPA:  
-  - **Servicio**: % técnico vs. económico (ej. 70% - 30%).  
+  - **Servicio**: % técnico vs. económico (ej. 60% - 40%).  
   - **Adquisición**: % técnico vs. económico (ej. 50% - 50%).  
 - [ ] Actualizar la sección de **propuesta económica** según las proporciones definidas.  
 
