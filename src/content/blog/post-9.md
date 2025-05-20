@@ -15,7 +15,7 @@ seo:
 
 ## 📁 Estructura Básica de la Carpeta  
 Toda carpeta de licitación debe contener **5 archivos clave**:  
-1. **Base (LPA)** *(Revisión detallada en [esta entrada](#))*  
+1. **Base (LPA)** *(Revisión detallada en [esta entrada](https://coordejecu.github.io/blog/post-8/))*  
 2. **Resumen de la licitación**  
 3. **Formatos para la licitación** (carpeta)  
 4. **Oficios de invitación** (carpeta)  
