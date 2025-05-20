@@ -27,23 +27,23 @@ Toda carpeta de licitación debe contener **5 archivos clave**:
 
 ### 1. **Base (LPA)** *(Revisión detallada en [esta entrada](https://coordejecu.github.io/blog/post-8/))*
 
-### 1. 📄 **Resumen de la Licitación**  
+### 2. 📄 **Resumen de la Licitación**  
 - [ ] Actualizar **fechas** (consistentes con la LPA).  
 - [ ] Verificar que el **nombre del servicio** coincida con la LPA.  
 - [ ] Revisar **números de oficio** (sin errores tipográficos).  
 
-### 2. 📂 **Carpeta de Formatos**  
+### 3. 📂 **Carpeta de Formatos**  
 - [ ] Confirmar que **nombres y números** de los formatos coincidan con la LPA.  
 - [ ] Asegurar que cada formato incluya:  
   - **Número de LPA** visible.  
   - **Nombre del servicio** exacto.  
 
-### 3. ✉️ **Carpeta de Oficios de Invitación**  
+### 4. ✉️ **Carpeta de Oficios de Invitación**  
 - [ ] Actualizar **fechas** (según cronograma de la LPA).  
 - [ ] Revisar que el **número de LPA y nombre del servicio** sean idénticos a la base.  
 - [ ] Validar **folios de oficios** (secuencia correcta y sin repeticiones).  
 
-### 4. ⚠️ **Archivo de Autorización de Recurso**  
+### 5. ⚠️ **Archivo de Autorización de Recurso**  
 - [ ] Confirmar que esté **firmado y sellado**.  
 - [ ] Verificar que el **monto coincida** con el presupuesto de la LPA.  
 
