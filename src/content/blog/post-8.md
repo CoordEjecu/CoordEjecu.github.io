@@ -1,5 +1,5 @@
 ---
-title: 'Checklist para Elaborar el Proyecto de Convocatoria de una Licitación Pública Nacional (LPA)'
+title: 'Checklist para Elaborar el Proyecto de Convocatoria de una Licitación Pública (LPA)'
 excerpt: 'Nombre de la LPA y de la investigación de mercado deben coincidir. Validar fechas del Resumen de Convocatoria antes de publicar. Revisar proporciones técnicas/económicas según el tipo de LPA.'
 publishDate: 'May 20 2025'
 tags:
@@ -16,16 +16,33 @@ seo:
 # 
 
 ## Introducción
-La Licitación Pública Nacional (LPA) es un procedimiento de contratación para la adquisición de bienes, arrendamientos o prestación de servicios. El presente documento funge como una guía paso a paso y lista de verificación para asegurar la adecuada integración de los documentos y formatos que conforman el proyecto de convocatoria, en apego al marco normativo establecido por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Sonora (LAAASPES).
+La Licitación Pública (LPA) es un procedimiento de contratación para la adquisición de bienes, arrendamientos o prestación de servicios. El presente documento funge como una guía paso a paso y lista de verificación para asegurar la adecuada integración de los documentos y formatos que conforman el proyecto de convocatoria, en apego al marco normativo establecido por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Sonora (LAAASPES).
 
 ---
 
-## Caracter de una licitación
-Una LPA puede llevarse a cabo bajo tres cual e, que varían según el Objeto del procedimiento:
-- **Adjudicación tradicional**  
-- **Por monto**  
-- **Por excepción**  
+## Caracter de una licitación pública
+Una LPA puede llevarse a cabo bajo tres caracteres, los cuales varían de acuerdo con el objeto del procedimiento:
+- **Nacional**  
+- **Internacional**  
+- **Internacional Abierta**  
 
+## Modalidades de una licitación pública
+Una LPA puede llevarse a cabo bajo tres modalidades, las cuales varían de acuerdo con las necesidades operativas de la convocante:
+- **Electrónica**  
+- **Presemcial**  
+- **Mixta**
+
+## Plazos de los actos de una licitación pública
+La calendarización de los plazos temporales de los actos de la LPA se realiza de la siguiente manera:
+- **Solicitud de dictamen de LICITANET: inicio de calendarización
+- **Recepción de dictamen: 10 dias habiles despues de la solicitud
+- **Modificaciones al proyecto de convocatoria: 2 a 3 dias
+- **Publicación de Proyecto de convocatoria en Compranet: Inicio de los actos de la licitación
+- **Junta de aclaraciones: 10 dias naturales despues de la publicación
+- **Presentación y apertura de proposiciones: 7 dias naturales despues de la Junta de aclaraciones
+- **Fecha limite de inscripción: 1 día habil antes de la Presentación y apertura de proposiciones
+- **Fallo: Los dias que la convocante considere necesarios para evaluar las propuestas y emitir un dictamen de fallo
+- **Firma del contrato: Al menos 12 dias habiles posteriores a la emision del fallo.     
 ---
 
 ## Checklist por Apartados
