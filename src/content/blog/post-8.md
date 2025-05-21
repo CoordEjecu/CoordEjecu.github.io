@@ -1,6 +1,6 @@
 ---
-title: 'Manual y Checklist para Elaborar una Licitación Pública Abierta (LPA)'
-excerpt: 'Nombre de la LPA y de la investigación de mercado deben coincidir. Validar fechas con el Director General antes de publicar. Revisar proporciones técnicas/económicas según el tipo de LPA.'
+title: 'Checklist para Elaborar el Proyecto de Convocatoria de una Licitación Pública Nacional (LPA)'
+excerpt: 'Nombre de la LPA y de la investigación de mercado deben coincidir. Validar fechas del Resumen de Convocatoria antes de publicar. Revisar proporciones técnicas/económicas según el tipo de LPA.'
 publishDate: 'May 20 2025'
 tags:
   - Estilo
@@ -16,12 +16,12 @@ seo:
 # 
 
 ## Introducción
-Una Licitación Pública Nacional (LPA) es un proceso formal para la adquisición de bienes o servicios. Este documento sirve como guía paso a paso y checklist para asegurar que todos los apartados se completen correctamente.
+La Licitación Pública Nacional (LPA) es un procedimiento de contratación para la adquisición de bienes, arrendamientos o prestación de servicios. El presente documento funge como una guía paso a paso y lista de verificación para asegurar la adecuada integración de los documentos y formatos que conforman el proyecto de convocatoria, en apego al marco normativo establecido por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Sonora (LAAASPES).
 
 ---
 
-## Estructura de una LPA
-Una LPA consta de **13 apartados**, que varían ligeramente según el tipo de licitación:
+## Caracter de una licitación
+Una LPA puede llevarse a cabo bajo tres cual e, que varían según el Objeto del procedimiento:
 - **Adjudicación tradicional**  
 - **Por monto**  
 - **Por excepción**  
