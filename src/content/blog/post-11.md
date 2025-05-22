@@ -11,7 +11,7 @@ seo:
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/1.jpeg)
+![A person standing at the window](/1.png)
 
 Hermosillo, Sonora. El reciente brote del gusano barrenador del ganado ha obligado a cerrar las fronteras para la exportación de ganado en pie en Sonora, medida que, según un nuevo análisis estadístico, podría traducirse en una caída económica superior a los 1,595 millones de pesos en el sector primario estatal.
 
