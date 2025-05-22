@@ -1,17 +1,17 @@
 ---
 title: 'Cierre de frontera pone en riesgo el empleo rural en Sonora: exportaciones de ganado y ocupación laboral están estrechamente ligadas'
 excerpt: 'La suspensión de exportaciones de ganado a EE. UU. por el gusano barrenador amenaza el empleo en Sonora. Los datos del INEGI muestran una relación directa entre el volumen de exportaciones ganaderas y la tasa de ocupación laboral. Por cada $5,016 dólares adicionales en exportación, la tasa de ocupación aumenta un punto porcentual. Se propone reforzar estrategias sanitarias y medidas económicas para mitigar las pérdidas.'
-publishDate: 'May 20 2025'
+publishDate: 'May 22 2025'
 tags:
-  - Estilo
-  - Equipo
+  - Ganadería
+  - Sonora
 seo:
   image:
-    src: '/check_list.png'
+    src: '/exportacion_empleo.png'
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/check_list.png)
+![A person standing at the window](/exportacion_empleo.png)
 
 La suspensión de las exportaciones de ganado en pie hacia Estados Unidos, a causa de la detección del gusano barrenador, provocaría efectos alarmantes en el empleo del estado.
 De acuerdo con datos analizados del Instituto Nacional de Estadística y Geografía (INEGI) revelan una relación estadísticamente significativa entre el volumen de exportaciones ganaderas y la tasa de ocupación laboral en Sonora.
