@@ -32,4 +32,7 @@ Especialistas indican que el cierre fronterizo se traduce en pérdidas de ingres
 Estados Unidos representa el principal comprador del ganado vacuno sonorense, y su mercado ha sido clave para sostener empleos en comunidades rurales.
 
 Ante este escenario, se propone reforzar no solo las estrategias sanitarias para contener el brote, sino también establecer medidas económicas complementarias.
-Entre ellas, destaca la necesidad de fortalecer y reactivar los rastros municipales y regionales como alternativa de comercialización interna, fomentar el comercio local de carne en canal, y ofrecer apoyos económicos dirigidos a pequeños y medianos ganaderos para mantener la engorda del ganado en pie durante el periodo de contención, evitando así pérdidas masivas en capital y empleo.
+Entre ellas, destaca la necesidad de fortalecer y reactivar los rastros municipales y regionales como alternativa de comercialización interna.
+Esta medidas ayudan a fomentar el comercio local de carne en canal. 
+Otra medida es ofrecer apoyos económicos dirigidos a pequeños y medianos ganaderos para mantener la engorda del ganado en pie durante el periodo de contención.
+Estas medidas en conjunto evitaran pérdidas masivas en capital y empleo.
