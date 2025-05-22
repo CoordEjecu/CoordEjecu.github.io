@@ -1,6 +1,6 @@
 ---
 title: 'Cierre de frontera pone en riesgo el empleo rural en Sonora: exportaciones de ganado y ocupación laboral están estrechamente ligadas'
-excerpt: 'Nombre de la LPA y de la investigación de mercado deben coincidir. Validar fechas con el Director General antes de publicar. Revisar proporciones técnicas/económicas según el tipo de LPA.'
+excerpt: 'La suspensión de exportaciones de ganado a EE. UU. por el gusano barrenador amenaza el empleo en Sonora. Los datos del INEGI muestran una relación directa entre el volumen de exportaciones ganaderas y la tasa de ocupación laboral. Por cada $5,016 dólares adicionales en exportación, la tasa de ocupación aumenta un punto porcentual. Se propone reforzar estrategias sanitarias y medidas económicas para mitigar las pérdidas.'
 publishDate: 'May 20 2025'
 tags:
   - Estilo
