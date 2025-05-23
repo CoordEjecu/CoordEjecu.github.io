@@ -15,6 +15,18 @@ seo:
 
 ## 🔴 Problemas estructurales
 
+Los problemas de agua en Sonora eran previsibles desde 1970 y el problema actual es porque no actuamos a tiempo.
+Esta crisis, aunque anunciada, se agravó por un sistema que normalizó el desperdicio y la inequidad.
+Mario Hernandez (investigador de la UNAM) propone que el problema del agua de debido al consumo y distribución.
+Para Francisco Peña de Paz (investigador del Colegio de San Luis Potosí) más que un problema meteorológico es un tema de injusticia en la distribución.
+Los problemas de sequía se manifiesta con síntomas en diferentes áreas y escalas.
+
+En Sonora los problemas de la sequía tienen impactos no solo en el consumo ciudadano.
+El Valle del Yaqui era considerado el granero de México porque producía el 52% del trigo del país y en el último año tuvo una caída del 24%.
+Según Monge Martínez, en Sonora tenemos dos Valles agrícolas al 25% de uso debido a la sequía.
+También la producción bovina se ha visto afectada al pasar el hato de un millón 200 mil a 700 mil cabezas.
+Otra complicación es que México acumula un adeudo de 3 años de entrega de agua con EEUU.
+
 ### 🏭 **Producción: Entre el desperdicio y la mala planeación**
 - **Desperdicio histórico**: 
   - Presa El Molinito ha liberado **746 millones de m³** en 15 años para prevenir inundaciones
