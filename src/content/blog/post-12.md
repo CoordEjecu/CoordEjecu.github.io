@@ -1,17 +1,17 @@
 ---
 title: 'Crisis hídrica en Sonora: Fracturas en producción, distribución y consumo'
-excerpt: 'Frente una crisis de sequía en Sonora hay 50% pérdidas en redes urbanas, 10/41 presas fronterizas están en niveles alarmantes y el 80% agua es de uso para la agricultura.'
+excerpt: 'Frente una crisis de sequía en Sonora hay 50% pérdidas en redes urbanas, 10/41 presas fronterizas están en niveles alarmantes y el 80% agua es de uso para la agricultura. Modelo San Quintín con la creación plantas desalinizadoras prioritarias puede ser una solución. La construcción de presas y la reparación de la red hidráulica es el complemento de la solución'
 publishDate: 'May 23 2025'
 tags:
   - Agua
   - Sonora
 seo:
   image:
-    src: '/1.png'
+    src: '/distribucion.jpeg'
     alt: A person standing at the window
 ---
 
-![A person standing at the window](/1.png)
+![A person standing at the window](/distribucion.jpeg)
 
 ## 🔴 Problemas estructurales
 
