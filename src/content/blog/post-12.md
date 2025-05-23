@@ -28,28 +28,26 @@ También la producción bovina se ha visto afectada al pasar el hato de un mill�
 Otra complicación es que México acumula un adeudo de 3 años de entrega de agua con EEUU.
 
 ### 🏭 **Producción: Entre el desperdicio y la mala planeación**
-- **Desperdicio histórico**: 
-  - Presa El Molinito ha liberado **746 millones de m³** en 15 años para prevenir inundaciones
-  - Volumen equivalente al consumo anual de Hermosillo (1.5 millones de personas)
-- **Tecnificación desigual**:
-  - Agricultura comercial (ej. nogales) tiene sistemas de riego eficientes
-  - Cultivos básicos siguen con métodos obsoletos
+Tenemos problemas en la producción, tanto en la producción del agua como en la producción con el agua.
+La acumulación de agua en presas es un ejemplo de problemas en la producción que podemos enumerar.
+De la presa El Molinito hemos liberado **746 millones de m³** en 15 años para prevenir inundaciones, equivalente a más de 5 veces el consumo anual de Hermosillo.
+En la agricultura aun están presentes sistemas de riego obsoleto: por agua rodada.
+La tecnificación solo ocurre en la agricultura comercial y se deja a un lado productos de la dieta básica mexicana.
 
 ### 🚰 **Distribución: Redes que sangran agua**
-- **Pérdidas técnicas**:
-  - 3 ciudades principales pierden **50%** del agua por fugas
-  - Infraestructura con más de 40 años sin mantenimiento
-- **Emergencia en presas**:
-  - 6 de las 10 presas en nivel crítico en la frontera norte están en Sonora
-  - Niveles actuales no garantizan suministro para 2025
+A nivel nacional 113 de las 210 presas más importantes reportan sus niveles más bajos en los últimos 30 años.
+Ciudades en Sonora tienen una alta ineficiencia y tenemos industrías que usan agua potable cuando podrían utilizar aguas tratadas.
+Hermosillo, Guaymas y Navojoa tiene una ineficiencia mayor al 40%.
+Con las minas de en Caborca y Nacozarise tiene un gasto de 200 lps el 40% de lo que porporcionaría la desaladora de Hermosillo.
+Como resultado 6 de las 10 presas en nivel crítico en la frontera norte están en Sonora.
 
 ### 🌾 **Consumo: La paradoja sonorense**
-- **Agricultura vs. población**:
-  - 80% del agua para sector agropecuario
-  - Solo 15% para uso urbano
-- **Ganadería en crisis**:
-  - Reducción de **1.2M a 700k cabezas** de ganado
-  - Productores obligados a vender a pérdida o ver morir animales
+La distribución de consumo de agua en Sonora es de 80% para sector agropecuario y 15% para uso urbano.
+Los usos agropecuerios se han visto afectados por los problemas actuales de sequía.
+Sonora importó por primera vez trigo cristalino, 40 toneladas procedentes de Argentina.
+Los costos de la ganadería se incrementan debido a la falta de forraje, el precio de la carne aumentó 30% y el consumo calló un 4%.
+La predicción es desoladora, con las presas del sur de Sonora con un nivel del 1% no habrá forraje y sin forraje habrá muerte de ganado. 
+
 
 ## 💡 Soluciones potenciales
 
