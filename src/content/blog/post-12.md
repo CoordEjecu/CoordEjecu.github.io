@@ -1,9 +1,9 @@
 ---
 title: 'Crisis hídrica en Sonora: Fracturas en producción, distribución y consumo'
-excerpt: 'El brote de gusano barrenador y la suspensión total de las exportaciones afectarían directamente el PIB del sector ganadero, según un nuevo modelo estadístico.'
-publishDate: 'May 22 2025'
+excerpt: 'Frente una crisis de sequía en Sonora hay 50% pérdidas en redes urbanas, 10/41 presas fronterizas están en niveles alarmantes y el 80% agua es de uso para la agricultura.'
+publishDate: 'May 23 2025'
 tags:
-  - Ganadería
+  - Agua
   - Sonora
 seo:
   image:
