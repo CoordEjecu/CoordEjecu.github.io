@@ -51,6 +51,17 @@ La predicción es desoladora, con las presas del sur de Sonora con un nivel del 
 
 ## 💡 Soluciones potenciales
 
+<!--- Industría 4.0 --->
+Algunas de las propuestas es pasar a una producción 4.0 del agua.
+Podemos tratar agua y desalinizar poniendo en práctica modelos ya utilizados en México.
+Una propuesta es un modelo de desalinización como el de San Quintín: con compra de agua por adelantado y con precios garantizados.
+La empresa Hydrous tiene el servicio de módulos moviles tratadores de agua con la condición de contratos con volúmenes mínimos de compra de agua tratada.
+Estás propuestas pueden disminuir las críticas hacía los temas de dasaladoras y plantas tratadoras.
+
+<!--- La relación con EEUU --->
+Investigadores del ColSon plantean la necesidad de más de una planta tratadora de agua.
+También se necesita una línea morada qirecta a parques y espacios públicos para dejar de usar agua potable para eso.
+
 | Área | Propuesta | Modelo existente |
 |------|----------|------------------|
 | Producción | Plantas desalinizadoras | Modelo Baja California |
