@@ -17,7 +17,7 @@ seo:
 
 Los problemas de agua en Sonora eran previsibles desde 1970 y el problema actual es porque no actuamos a tiempo.
 Esta crisis, aunque anunciada, se agravó por un sistema que normalizó el desperdicio y la inequidad.
-Mario Hernandez (investigador de la UNAM) propone que el problema del agua de debido al consumo y distribución.
+Para Mario Hernandez (investigador de la UNAM) las causas de la sequía son el consumo y la distribución.
 Para Francisco Peña de Paz (investigador del Colegio de San Luis Potosí) más que un problema meteorológico es un tema de injusticia en la distribución.
 Los problemas de sequía se manifiesta con síntomas en diferentes áreas y escalas.
 
@@ -38,14 +38,14 @@ La tecnificación solo ocurre en la agricultura comercial y se deja a un lado pr
 A nivel nacional 113 de las 210 presas más importantes reportan sus niveles más bajos en los últimos 30 años.
 Ciudades en Sonora tienen una alta ineficiencia y tenemos industrías que usan agua potable cuando podrían utilizar aguas tratadas.
 Hermosillo, Guaymas y Navojoa tiene una ineficiencia mayor al 40%.
-Con las minas de en Caborca y Nacozarise tiene un gasto de 200 lps el 40% de lo que porporcionaría la desaladora de Hermosillo.
-Como resultado 6 de las 10 presas en nivel crítico en la frontera norte están en Sonora.
+Las minas de Caborca y Nacozarise tiene un gasto de 200 lps cantidad equivalente al 40% de lo que porporcionaría la desaladora de Hermosillo.
+Como resultado, 6 de las 10 presas en nivel crítico en la frontera norte están en Sonora.
 
 ### 🌾 **Consumo: La paradoja sonorense**
 La distribución de consumo de agua en Sonora es de 80% para sector agropecuario y 15% para uso urbano.
 Los usos agropecuerios se han visto afectados por los problemas actuales de sequía.
 Sonora importó por primera vez trigo cristalino, 40 toneladas procedentes de Argentina.
-Los costos de la ganadería se incrementan debido a la falta de forraje, el precio de la carne aumentó 30% y el consumo calló un 4%.
+Los costos de la ganadería se incrementan debido a la falta de forraje, el precio de la carne aumentó 30% y el consumo cayó un 4%.
 La predicción es desoladora, con las presas del sur de Sonora con un nivel del 1% no habrá forraje y sin forraje habrá muerte de ganado. 
 
 
