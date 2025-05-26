@@ -59,35 +59,9 @@ La empresa Hydrous tiene el servicio de módulos moviles tratadores de agua con 
 Estás propuestas pueden disminuir las críticas hacía los temas de dasaladoras y plantas tratadoras.
 
 <!--- La relación con EEUU --->
-Investigadores del ColSon plantean la necesidad de más de una planta tratadora de agua.
-También se necesita una línea morada qirecta a parques y espacios públicos para dejar de usar agua potable para eso.
 
-| Área | Propuesta | Modelo existente |
-|------|----------|------------------|
-| Producción | Plantas desalinizadoras | Modelo Baja California |
-| Distribución | Contratos de agua garantizados | Ejemplo San Quintín |
-| Consumo | Cuotas diferenciadas (básicos vs. comerciales) | Recomendación UNAM |
-
-## 📉 Datos clave
-### Distribución actual del agua en Sonora
-    "Agricultura comercial" : 55
-    "Agricultura básica" : 25
-    "Uso urbano" : 15
-    "Industria" : 5
-
-Advertencia de expertos: "El problema no es la cantidad, sino la gestión" (UNAM, 2023). Mientras 2 valles agrícolas operan al 25%, Hermosillo sigue expandiendo zonas de riego para nogales.
-
-## 🚨 Consecuencias en cadena
-Aumento del 40% en precio de la carne
-
-Pérdida de 12,000 empleos directos en ganadería
-
-Migración forzada de pequeños productores
-
-## ⚠️ Urge: Plan estatal con metas claras para:
-
-Reparar 300 km de red hidráulica
-
-Multar desperdicios en agricultura de lujo
-
-Invertir en 5 plantas desalinizadoras prioritarias
+El plan hídrico de Sonora propone resolver el problema con la construcción de infrestructura.
+El plan propone invertir $47 mil millones en presas, acueductos, saneamiento de drenaje entre otras cosas. 
+Con la construcción de las presas en Sonora dejaremos de desfogar agua y así produciríamos 31.5 millones de m³ más.
+Desde los años 70s, se propuso el PLHINO con el que se trasvasarían 808 millones de m³ agua al año.
+Con estas dos mejoras produciríamos más del doble del agua que en México tenemos comprometido con EE.UU.
