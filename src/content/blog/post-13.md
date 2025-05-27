@@ -14,12 +14,15 @@ seo:
 Estimado(a) [Nombre del Representante o "Señor(a) Representante"]:
 
 Mi nombre es Carlos Zatarain, Coordinador Ejecutivo de Administración y Finanzas.
-Por medio de la presente, me dirijo a ustedes con el fin de solicitar el apoyo de JICA para la implementación de una planta desalinizadora en el municipio de Guaymas, Sonora.
+Me dirijo a ustedes para solicitar el apoyo de JICA en la implementación de una planta desalinizadora en el municipio de Guaymas, Sonora.
 
-Esta petición surge como respuesta a la crisis hídrica urgente que afecta a nuestra región, la cual requiere atención inmediata y soluciones sostenibles.
-Estoy convencido de que las políticas públicas deben orientarse al desarrollo sostenible, la igualdad y la justicia social, principios que guían mi labor como servidor público.
+Esta petición surge como respuesta a la crisis hídrica urgente que afecta a nuestra región.
+Buscamos dar atención inmediata y soluciones sostenibles.
+Estoy convencido de que las políticas públicas deben orientarse al desarrollo sostenible, la igualdad y la justicia social.
+Son estos principios los que guían mi labor como servidor público.
 
-Como persona comprometida con el bienestar de la sociedad, considero que este proyecto no solo atenderá una necesidad crítica de nuestra comunidad, sino que también contribuirá a construir un futuro más justo y equitativo para las generaciones presentes y futuras.
+Como persona comprometida con el bienestar de la sociedad, considero que este proyecto atenderá una necesidad crítica de nuestra comunidad. 
+Esta propuesta también contribuirá a construir un futuro más justo y equitativo para las generaciones presentes y futuras.
 
 ## Contexto y justificación
 
