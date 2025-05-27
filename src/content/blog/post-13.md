@@ -60,13 +60,15 @@ Proponemos una colaboración para impulsar el desarrollo hídrico, económico y 
 Reconocemos el compromiso, experiencia y profesionalismo de JICA en el desarrollo de soluciones sostenibles a nivel global.
 Esta colaboración impulsará la relación estratégica entre Japón, México y particularmente el estado de Sonora.
 
-La creciente interdependencia económica entre nuestras naciones, así como la posición geográfica privilegiada de Guaymas como nodo logístico e industrial, convierten este proyecto en una oportunidad estratégica para consolidar la presencia de Japón en el noroeste de México y ampliar su proyección en América del Norte.
+La creciente interdependencia económica entre nuestras naciones convierten este proyecto en una oportunidad estratégica para consolidar la presencia de Japón en el noroeste de México.
+Esta colaboración potenciará la posición geográfica privilegiada de Guaymas como nodo logístico e industrial, así Japón y Guaymas ampliarán su proyección en América del Norte.
 
 Con base en lo anterior, solicitamos a JICA considerar las siguientes modalidades de apoyo para la implementación de una planta desalinizadora en Guaymas:
 - Asistencia técnica: Transferencia de tecnología japonesa en desalinización sostenible, basada en buenas prácticas internacionales y adaptadas al contexto regional.
 - Capacitación especializada: Diseño e impartición de programas técnicos para la operación, mantenimiento y gestión eficiente de la planta, con enfoque de autosuficiencia local.
 - Financiamiento parcial: Apoyo para la realización del estudio de factibilidad o para la infraestructura básica que permita poner en marcha el proyecto.
-Estamos convencidos de que esta colaboración no solo dará solución a una necesidad urgente, sino que también será un modelo de cooperación internacional eficaz, innovador y sostenible, con beneficios compartidos para ambos países en el contexto actual.
+Estamos convencidos de que esta colaboración será un modelo de cooperación internacional eficaz, innovador y sostenible.
+Esta sinergia bilateral generará beneficios compartidos para ambos países, atendiendo una necesidad urgente mientras fortalece su posición en el escenario actual.
 
 ## Compromisos locales
 
