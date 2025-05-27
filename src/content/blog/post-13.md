@@ -42,18 +42,23 @@ Este proyecto se alinea con:
 - El Plan Nacional de Desarrollo de México, que promueve el uso responsable del agua y el impulso a las regiones con vocación productiva.
 
 Contar con una fuente confiable y sostenible de agua permitirá preservar e incrementar la producción agroalimentaria, una actividad estratégica en la relación comercial entre México y Japón.
-En 2020, México exportó productos agroalimentarios a Japón por un valor de 1,095 millones de dólares; tan solo tres años antes, Sonora ya había exportado 220 millones de dólares en carne de cerdo, posicionándose como el líder nacional en exportaciones hacia Japón.
+En 2020, México exportó productos agroalimentarios a Japón por un valor de 1,095 millones de dólares. Tres años antes, Sonora ya había exportado 220 millones de dólares en carne de cerdo, posicionándose como el líder nacional en exportaciones hacia Japón.
 Esto demuestra que existe una relación sólida y activa entre Sonora y Japón, basada en el comercio de alto valor agregado.
 
 La disponibilidad de agua garantizaría la continuidad y expansión de esta relación comercial, al fortalecer la capacidad productiva de la región y ofrecer seguridad hídrica a largo plazo para nuevas inversiones.
 Además, abre la posibilidad de profundizar la cooperación bilateral y de explorar nuevas áreas de intercambio económico y tecnológico.
-Guaymas es un punto estratégico para el desarrollo regional y el comercio internacional: cuenta con conectividad por tren, carretera y puerto, y está ubicado en una posición privilegiada por su cercanía con los Estados Unidos.
+Guaymas es un punto estratégico para el desarrollo regional y el comercio internacional.
+En Guaymas contamos con conectividad por tren, carretera y puerto, y estamos ubicados en una posición privilegiada por nuestra cercanía con los Estados Unidos.
 Este conjunto de factores lo convierte en un espacio clave para fortalecer la presencia estratégica de Japón en América del Norte, especialmente en un contexto geopolítico marcado por la actual guerra arancelaria entre Estados Unidos y China, así como por las nuevas tensiones derivadas de políticas proteccionistas.
 
-Una inversión como la que se plantea no sólo beneficiaría a la población local y a la economía regional, sino que también consolidaría a Guaymas como una plataforma de colaboración internacional entre México y Japón, capaz de responder a los retos actuales del comercio, el desarrollo sostenible y la seguridad hídrica.
+Una inversión como la que planteamos consolidaría a Guaymas como una plataforma de colaboración internacional entre México y Japón. 
+Guaymas beneficiaría a la población local y a la economía regional dando respuesta a los retos actuales del comercio, el desarrollo sostenible y la seguridad hídrica.
 
 ## Propuesta de colaboración
-Reconociendo el compromiso, experiencia y profesionalismo de JICA en el desarrollo de soluciones sostenibles a nivel global, y considerando la relación estratégica entre Japón, México y particularmente el estado de Sonora, proponemos establecer una colaboración conjunta para impulsar el desarrollo hídrico, económico y productivo de Guaymas, en beneficio de su población y del fortalecimiento de las relaciones bilaterales.
+
+Proponemos una colaboración para impulsar el desarrollo hídrico, económico y productivo de Guaymas, en beneficio de la población y del fortalecimiento de las relaciones bilaterales.
+Reconocemos el compromiso, experiencia y profesionalismo de JICA en el desarrollo de soluciones sostenibles a nivel global.
+Esta colaboración impulsará la relación estratégica entre Japón, México y particularmente el estado de Sonora.
 
 La creciente interdependencia económica entre nuestras naciones, así como la posición geográfica privilegiada de Guaymas como nodo logístico e industrial, convierten este proyecto en una oportunidad estratégica para consolidar la presencia de Japón en el noroeste de México y ampliar su proyección en América del Norte.
 
