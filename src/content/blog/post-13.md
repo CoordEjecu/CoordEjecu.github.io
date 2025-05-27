@@ -72,11 +72,20 @@ Esta sinergia bilateral generará beneficios compartidos para ambos países, ate
 
 ## Compromisos locales
 
-Conscientes de la relevancia estratégica de esta colaboración para el desarrollo regional y la consolidación de la relación entre Sonora y Japón, asumimos con responsabilidad los compromisos necesarios para garantizar el éxito del proyecto, en consonancia con los principios de transparencia, sostenibilidad, equidad y corresponsabilidad institucional.
+Asumimos con responsabilidad los compromisos necesarios para garantizar el éxito del proyecto, en consonancia con los principios de transparencia, sostenibilidad, equidad y corresponsabilidad institucional.
+Somos conscientes de la relevancia estratégica de esta colaboración para el desarrollo regional y la consolidación de la relación entre Sonora y Japón.
 Desde el ámbito local, nos comprometemos a:
-Aportar una contrapartida técnica y logística mediante la participación de [tu organización o instituciones aliadas], que cuentan con experiencia en la gestión de infraestructura y proyectos públicos, así como con conocimiento del contexto territorial.
-Asegurar la transparencia en la ejecución de recursos, mediante mecanismos de control, seguimiento y rendición de cuentas que permitan el uso eficiente y honesto de los apoyos recibidos, en apego a la normatividad mexicana e internacional.
+Aportar una contrapartida técnica y logística mediante la participación de la Coordinación Ejecutivo de Administración y Finanzas.
+La Coordinación cuentan con experiencia en la gestión de infraestructura y proyectos públicos, así como con conocimiento del contexto territorial.
+Asegurar el uso eficiente y honesto de los apoyos recibidos en apego a la normatividad mexicana e internacional.
+Privilegiar la transparencia en la ejecución de recursos, mediante mecanismos de control, seguimiento y rendición de cuentas.
 
-Realizar una evaluación integral del impacto ambiental y social del proyecto, garantizando que su implementación se lleve a cabo bajo principios de desarrollo sostenible, respeto por el entorno natural y con beneficios tangibles para las comunidades locales.
-Estos compromisos reflejan no solo el cumplimiento de los estándares que caracterizan a JICA, sino también la voluntad del Estado de Sonora de construir alianzas sólidas y duraderas, que promuevan un modelo de desarrollo basado en el bienestar colectivo, la justicia social y la igualdad de oportunidades.
-Estamos convencidos de que este esfuerzo conjunto sentará las bases para ampliar y profundizar la cooperación estratégica entre Japón y México, posicionando a Guaymas como un nodo clave para el desarrollo regional y como un símbolo del potencial transformador de la colaboración internacional.
+Realizar una evaluación integral del impacto ambiental y social del proyecto.
+Garantizar que el proyecto se implemente bajo principios de desarrollo sostenible, respeto por el entorno natural y con beneficios tangibles para las comunidades locales.
+Estos compromisos reflejan: 
+- el cumplimiento de los estándares que caracterizan a JICA, 
+- la voluntad del Estado de Sonora de construir alianzas sólidas y duraderas,
+- promover un modelo de desarrollo basado en el bienestar colectivo, la justicia social y la igualdad de oportunidades.
+
+Estamos convencidos de que este esfuerzo conjunto sentará las bases para ampliar y profundizar la cooperación estratégica entre Japón y México.
+Posicionaremos a Guaymas como un nodo clave para el desarrollo regional y como un símbolo del potencial transformador de la colaboración internacional.
