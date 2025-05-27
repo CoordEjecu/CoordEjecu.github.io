@@ -27,11 +27,15 @@ Esta propuesta también contribuirá a construir un futuro más justo y equitati
 ## Contexto y justificación
 
 La región fronteriza norte de México atraviesa una grave sequía que pone en riesgo su desarrollo económico y social.
-En particular, el estado de Sonora enfrenta una situación alarmante: seis de las diez presas más importantes de la zona presentan niveles críticamente bajos, lo que ha provocado una fuerte disminución en la producción agrícola y una escasez de alimento para el ganado.
+En particular, el estado de Sonora enfrenta una situación alarmante.
+Sonora tiene seis de las diez presas más importantes de la zona que presentan niveles críticamente bajos de la zona fronteriza norte. 
+Esta sequía ha provocado una fuerte disminución en la producción agrícola y una escasez de alimento para el ganado.
 Esto ha resultado en un aumento en los precios de la carne y una caída en su consumo, afectando tanto a los productores como a los consumidores.
 
-El municipio de Guaymas, ubicado en el sur del estado, enfrenta una escasez crítica de agua, agravada por la intrusión salina en los mantos acuíferos subterráneos debido a su sobreexplotación.
-En este contexto, la implementación de una planta desalinizadora representa no solo una respuesta urgente a la crisis hídrica, sino también una estrategia de desarrollo a largo plazo, que permitiría garantizar la disponibilidad de agua para uso doméstico, agrícola e industrial.
+El municipio de Guaymas, ubicado en el sur del estado, enfrenta una escasez crítica de agua.
+Esta situación es agravada por la intrusión salina en los mantos acuíferos subterráneos debido a su sobreexplotación.
+La implementación de una planta desalinizadora representa no solo una respuesta urgente a la crisis hídrica, sino también una estrategia de desarrollo a largo plazo. 
+Esta propuesta permitirá garantizar la disponibilidad de agua para uso doméstico, agrícola e industrial.
 Este proyecto se alinea con:
 - El Objetivo de Desarrollo Sostenible (ODS) 6 de la ONU: Agua limpia y saneamiento.
 - La agenda global de JICA: Gestión sostenible de los recursos hídricos y suministro de agua.
