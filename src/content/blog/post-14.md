@@ -13,6 +13,7 @@ seo:
 
 1. Planteamiento del problema
 Las instituciones de seguridad del Estado mexicano destinan anualmente recursos considerables a la adquisición de equipamiento operativo (uniformes, botas, cinturones y accesorios tácticos) mediante proveedores externos. Esta práctica, aunque funcional, representa una dependencia estructural del Estado respecto a empresas privadas nacionales y extranjeras, y un flujo constante de recursos públicos hacia el exterior. En contextos de tensión internacional, disrupciones logísticas o conflictos internos, esta dependencia puede transformarse en una vulnerabilidad.
+
 El fortalecimiento de la soberanía económica y logística del Estado podría lograrse mediante la internalización de estos procesos productivos dentro de instituciones como la SEMAR o la SEDENA. Esta propuesta requiere ser analizada rigurosamente, considerando sus impactos en el desarrollo nacional, la seguridad económica y el poder logístico del Estado.
 
 2. Preguntas de investigación
@@ -39,8 +40,6 @@ La internalización de la producción de insumos operativos por parte de las Fue
 
 5. Justificación
 La autosuficiencia en la producción de bienes estratégicos es una condición esencial para la soberanía de cualquier Estado. Frente a contextos globales cada vez más complejos, la posibilidad de que instituciones como la SEMAR o SEDENA asuman directamente la fabricación de sus insumos constituye una línea de acción viable y relevante. Este estudio aportará elementos técnicos y estratégicos que podrían fundamentar una política pública orientada a la seguridad económica, logística e industrial del país.
-
-
 
 6. Marco teórico-referencial
 La investigación se apoya en los enfoques de seguridad multidimensional (Barry Buzan), poder nacional (Claude E. Welch), políticas de industrialización por sustitución de importaciones (Prebisch), y modelación macroeconómica (Leontief). También considera experiencias internacionales de producción militar estatal y literatura sobre autonomía estratégica y seguridad logística.
