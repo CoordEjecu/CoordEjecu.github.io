@@ -18,17 +18,17 @@ Considerando los 14 municipios con más votos en el estado, se calcula una parti
 
 Las candidatas electas son:
 
-    1. Briseño Torres Ana Patricia: 119,484 votos (32.70 %). Linea
-    2. Ybarra Escalante Violeta: 75,341 votos (20.62 %). Intrusa
+1. Briseño Torres Ana Patricia: 119,484 votos (32.70 %). Linea
+2. Ybarra Escalante Violeta: 75,341 votos (20.62 %). Intrusa
 
 Las candidatas no electas son:
 
-    3. Soto Esquer Maria Del Carmen: 68,827 votos (18.83%). Linea
-    4. Cinco Sosa Evangelina: 40,105 votos (10.9%). Sin Linea
-    5. Flores Miranda Martha Elena: 33,829 votos (9.25%). Sin Linea
-    6. Gacía Figueroa Lila del Carmen: 27,776 votos (7.6%). Sin Linea
+3. Soto Esquer Maria Del Carmen: 68,827 votos (18.83%). Linea
+4. Cinco Sosa Evangelina: 40,105 votos (10.9%). Sin Linea
+5. Flores Miranda Martha Elena: 33,829 votos (9.25%). Sin Linea
+6. Gacía Figueroa Lila del Carmen: 27,776 votos (7.6%). Sin Linea
 
-Análisis estadístico 
+### Análisis estadístico 
 
   - Aunque la línea institucional domina con la principal electa, la segunda posición la ocupó una "intrusa", mostrando una operación en contra competitiva con una presencia significativa.
 
