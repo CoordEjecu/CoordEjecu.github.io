@@ -34,4 +34,27 @@ Las candidatas no electas son:
 
     - La diferencia en votos y en porcentaje es mayor que la desviación estándar. Esto indica que la ventaja de la candidata ganadora es significativa, no atribuible a fluctuaciones normales en la distribución de votos y no se debió al azar.
 
-  - Analizando los patrones de la elección mediante el método de regresión logística, se cuantificó el efecto de las estructuras institucionales y se obtuvieron los siguientes resul
+  - Analizando los patrones de la elección mediante el método de regresión logística, se cuantificó el efecto de las estructuras institucionales y se obtuvieron los siguientes resultados
+
+| Municipio | Coeficiente | Interpretación |
+|------|------------|----------|
+| Alamos         | 0.5474 | A favor de la línea |
+| Etchojoa       | 0.4970 | A favor de la línea |
+| Huatabampo     | 0.4688 | A favor de la Línea |
+| Navojoa        | 0.2493 | A favor de la Línea |
+| Puerto Peñasco | 0.1446 | A favor de la Línea |
+| Empalme        | 0.0361 | Considerable operación en contra |
+| Guaymas        | 0.0342 | Considerable operación en contra |
+| Cananea        | 0.0263 | Considerable operación en contra |
+| Agua Prieta    |-0.0887 | Drástica operación en contra |
+| San Luis R. C. |-0.1428 | Drástica operación en contra |
+| Cajeme         |-0.1441 | Drástica operación en contra |
+| Caborca        |-0.1517 | Drástica operación en contra |
+| Nogales        |-0.1839 | Drástica operación en contra |
+| Hermosillo     |-0.2630 | Drástica operación en contra |
+
+
+
+
+
+
